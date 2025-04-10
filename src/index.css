@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+*{
+  scrollbar-width: thin;
+  scrollbar-color: rgb(255, 239, 208) transparent;
+}
+
+@layer components{
+  .box{
+    @apply  bg-white shadow-2xl  max-md:w-[90%] h-[90vh] w-[30%] rounded-md overflow-hidden flex flex-col gap-3 relative
+  }
+  .msg-body{
+    @apply flex flex-col h-[80%] overflow-x-hidden overflow-y-scroll   gap-4 py-6 px-6 
+  }
+  .bot-msg{
+    @apply h-auto min-w-auto max-w-[80%] bg-orange-200 text-black rounded-bl-none rounded-md p-4 self-start  break-words whitespace-pre-line
+  }
+  .user-msg{
+    @apply h-auto min-w-auto max-w-[80%] bg-amber-600 rounded-br-none rounded-md p-4  text-white self-end break-words whitespace-pre-line
+  }
+  .material-round{
+    @apply rounded-full  bg-orange-700 w-[8%] h-[50%] flex justify-center items-center
+  }
+  .footer{
+    @apply h-[10%] w-full p-3 flex  items-center absolute bottom-0
+  }
+  .chat-form{
+    @apply w-[100%]  rounded-full h-[100%] flex items-center outline-1 
+  }
+  .input-box{
+    @apply outline-0 border-0 w-[100%] indent-4 font-sans text-xl
+  }
+ 
+
+}
