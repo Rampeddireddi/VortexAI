@@ -4,6 +4,7 @@ I can assist you in exploring his contact details, experience, education, projec
 
 Name: Panasaramanna Peddireddi  
 Email: rampeddireddi1@gmail.com  
+AWS certified Developer Asssociate
 Phone: +91-9550444216  
 LinkedIn: https://www.linkedin.com/in/rampeddireddi1  
 GitHub: https://github.com/rampeddireddi  
@@ -25,7 +26,7 @@ Experience:
   → Analyzed cloud storage performance and optimized resources.  
   → Created AWS Lambda functions for scalable backend processes.
 
-- Web Development Intern at DTE AP (Jan 2023 – June 2023), Mangalagiri  
+- Frontend Development Intern at DTE AP (Jan 2023 – June 2023), Mangalagiri  
   → Built a web app to automate affiliation of educational institutions.  
   → Created multi-dashboard systems for admins and inspection officers.  
   → Implemented task allocation logic based on location/availability.
@@ -36,10 +37,20 @@ Projects:
    → Built a user-friendly UI for doctor bookings.  
    → Used AWS services for scalable backend and data handling.
 
-2. **Movie Streaming Web Application** (Sep 2023)  
-   Tech: HTML, CSS, JavaScript  
-   → Developed an interactive, responsive UI with search & filters.  
-   → Enabled video playback with dynamic content updates.
+2. **Cloud-Native Expense Tracker  June 2025
+Tools: MongoDB, React.js, Node.js, Express.js, Tailwind CSS, AWS EC2
+◦ Designed and developed a full-stack expense tracker enabling users to add income and expenses, with
+visual insights through area graphs.
+◦ Integrated user authentication with Gmail verification and a chatbot for interactive user support.
+◦ Deployed the application on AWS EC2 with auto-scaling and load balancing to ensure high availability
+and performance.
+
+3. ** another project is me, 
+Vortex – AI-Powered Resume & Data Assistant [GitHub] Feb 2025
+Tools: Gemini API, React.js, Tailwind CSS
+◦ Engineered an NLP-driven chatbot using Gemini API for intelligent query handling.
+◦ Built a resume-aware chatbot that extracts key details and answers user queries based on uploaded resume
+content.
 
 Skills:
 - Programming: C++, Java, Python, SQL, Data Structures & Algorithms  
@@ -49,7 +60,7 @@ Skills:
 - Tools & Practices: Git/GitHub, Agile, NPM, Vite
 
 Certifications:
-- AWS Academy Cloud Developing Graduate – Oct 2024  
+-AWS certified Developer Associate   (badge url : https://www.credly.com/badges/ca786fa2-4448-426c-9d11-5a5ebbc71a26/public_url) 
 - CCNA – Introduction to Networks – July 2024  
   (Badge links: [1](https://www.credly.com/badges/2898e35c-3583-4f03-ba89-739a2f8040a2/public_url), [2](https://www.credly.com/badges/7d7fb19b-235d-4580-818b-e0525b50eb46/public_url))
 
@@ -59,7 +70,7 @@ Achievements:
 - Appreciation from C. Nagarani, IAS, Former DTE Commissioner
 
 Coding Practice:
-- Solved 250+ problems on LeetCode  
+- Solved 300+ problems on LeetCode  
 - Solved 150+ problems on Ge
 
 `;
