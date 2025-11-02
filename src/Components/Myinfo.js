@@ -1,76 +1,90 @@
-export const Myinfo=`
-Hi! I am a chatbot developed by Panasaramanna Peddireddi — a MERN stack and Cloud Developer from Andhra Pradesh.  
-I can assist you in exploring his contact details, experience, education, projects, skills, certifications, achievements, coding profiles, and much more.
+export const Myinfo = `
+Hi! I am a chatbot developed by **Panasaramanna Peddireddi** — a MERN Stack and Cloud Developer from Andhra Pradesh.  
+I can assist you in exploring his contact details, experience, education, projects, skills, certifications, achievements, and coding profiles.
 
-Name: Panasaramanna Peddireddi  
-Email: rampeddireddi1@gmail.com  
-AWS certified Developer Asssociate
-Phone: +91-9550444216  
-LinkedIn: https://www.linkedin.com/in/rampeddireddi1  
-GitHub: https://github.com/rampeddireddi  
-LeetCode: https://leetcode.com/u/Rampeddireddi/  
-GeeksforGeeks: https://www.geeksforgeeks.org/user/rampeddiytd6/
+**Name:** Panasaramanna Peddireddi  
+**Email:** rampeddireddi1@gmail.com  
+**Phone:** +91-9550444216  
+**LinkedIn:** https://www.linkedin.com/in/rampeddireddi1  
+**GitHub:** https://github.com/rampeddireddi  
+**Portfolio:** https://ppr-delta.vercel.app  
+**LeetCode:** https://leetcode.com/u/Rampeddireddi/  
+**GeeksforGeeks:** https://www.geeksforgeeks.org/user/rampeddiytd6/  
+**CodeChef:** https://www.codechef.com/users/gurusharan89  
 
-Education:
-- Bachelor of Technology in Computer Science and Engineering  
-  Aditya University, Surampalem  
-  CGPA: 8.65 (Expected Graduation: May 2026)
+---
 
-- Diploma in Computer Engineering (CME)  
-  Andhra Polytechnic College, Kakinada  
-  Percentage: 92.4% (Completed: June 2023)
+### 🎓 Education:
+- **Bachelor of Technology (B.Tech) in Computer Science and Engineering**  
+  *Aditya Engineering College, Surampalem*  
+  CGPA: 8.53 — *Expected Graduation: June 2026*
 
-Experience:
-- AWS Cloud Intern at Technical Hub (June 2024 – July 2024), Surampalem  
-  → Developed automated backup solutions using AWS.  
-  → Analyzed cloud storage performance and optimized resources.  
-  → Created AWS Lambda functions for scalable backend processes.
+- **Diploma in Computer Engineering (CME)**  
+  *Andhra Polytechnic College, Kakinada*  
+  Percentage: 92.4% — *Graduated: 2023*
 
-- Frontend Development Intern at DTE AP (Jan 2023 – June 2023), Mangalagiri  
-  → Built a web app to automate affiliation of educational institutions.  
-  → Created multi-dashboard systems for admins and inspection officers.  
-  → Implemented task allocation logic based on location/availability.
+---
 
-Projects:
-1. **Online Doctor Appointment Booking Website** (Aug 2024 – Dec 2024)  
-   Tech: React.js, Tailwind CSS, AWS Lambda, API Gateway, DynamoDB  
-   → Built a user-friendly UI for doctor bookings.  
-   → Used AWS services for scalable backend and data handling.
+### 💼 Experience:
+- **AWS Cloud Intern — Technical Hub (June 2024 – July 2024), Surampalem**  
+  → Built automated backup solutions using AWS S3, Lambda, and EC2.  
+  → Integrated Python-based backend with Lambda for real-time processing.  
+  → Improved data reliability and resource efficiency in distributed environments.
 
-2. **Cloud-Native Expense Tracker  June 2025
-Tools: MongoDB, React.js, Node.js, Express.js, Tailwind CSS, AWS EC2
-◦ Designed and developed a full-stack expense tracker enabling users to add income and expenses, with
-visual insights through area graphs.
-◦ Integrated user authentication with Gmail verification and a chatbot for interactive user support.
-◦ Deployed the application on AWS EC2 with auto-scaling and load balancing to ensure high availability
-and performance.
+- **Front-End Development Intern — SBTET, AP (Jan 2023 – June 2023), Mangalagiri**  
+  → Developed interactive dashboards for an education automation web app.  
+  → Improved efficiency by 60% via optimized UI/UX and task allocation features.  
+  → Collaborated in Agile sprints focusing on design, performance, and responsiveness.
 
-3. ** another project is me, 
-Vortex – AI-Powered Resume & Data Assistant [GitHub] Feb 2025
-Tools: Gemini API, React.js, Tailwind CSS
-◦ Engineered an NLP-driven chatbot using Gemini API for intelligent query handling.
-◦ Built a resume-aware chatbot that extracts key details and answers user queries based on uploaded resume
-content.
+---
 
-Skills:
-- Programming: C++, Java, Python, SQL, Data Structures & Algorithms  
-- Frontend: HTML, Tailwind CSS, JavaScript, React.js  
-- Backend & DevOps: Express.js, Node.js, MongoDB, REST APIs, AWS (Lambda, DynamoDB, EC2, S3), Docker, Linux  
-- Concepts: Computer Networking, Operating Systems, OOP  
-- Tools & Practices: Git/GitHub, Agile, NPM, Vite
+### 🚀 Projects:
 
-Certifications:
--AWS certified Developer Associate   (badge url : https://www.credly.com/badges/ca786fa2-4448-426c-9d11-5a5ebbc71a26/public_url) 
-- CCNA – Introduction to Networks – July 2024  
-  (Badge links: [1](https://www.credly.com/badges/2898e35c-3583-4f03-ba89-739a2f8040a2/public_url), [2](https://www.credly.com/badges/7d7fb19b-235d-4580-818b-e0525b50eb46/public_url))
+1. **Cloud-Native Expense Tracker (June 2025 – July 2025)**  
+   *Tech Stack:* MongoDB, React.js, Node.js, Express.js, Tailwind CSS, Docker, AWS EC2, GitHub Actions  
+   → Built a full-stack expense tracker for managing income and expenses with visual analytics.  
+   → Integrated Gmail-based authentication and an interactive chatbot.  
+   → Automated CI/CD using GitHub Actions and Docker deployments on AWS EC2.  
+   → Achieved zero-downtime updates via container replacement.  
+   → Hosted frontend on **Vercel**.
 
-Achievements:
-- Winner, District-Level Science Fair – Andhra Pradesh (2018)  
-- Secured internship through SBTET – AP Government Body  
-- Appreciation from C. Nagarani, IAS, Former DTE Commissioner
+2. **Vortex – AI-Powered Resume & Data Assistant (Feb 2025)**  
+   *Tech Stack:* Gemini API, React.js, Tailwind CSS  
+   → Created an NLP-based chatbot using Gemini API for intelligent query handling.  
+   → Designed a resume-aware bot that answers user questions based on uploaded resumes.
 
-Coding Practice:
-- Solved 300+ problems on LeetCode  
-- Solved 150+ problems on Ge
+---
 
+### 🧠 Skills:
+- **Web Technologies:** HTML, Tailwind CSS, JavaScript, React.js, JWT, Node.js, Express.js, REST APIs  
+- **Databases:** MongoDB, MySQL, DynamoDB  
+- **Languages:** Java, C++, Python, SQL  
+- **Cloud & DevOps:** AWS (Lambda, DynamoDB, S3, EC2), Docker, Linux  
+- **Core CS:** DSA, OOP, Networking (TCP/IP, DNS, HTTP), OS, Distributed Systems, Machine Learning  
+- **Tools:** Git, GitHub, NPM, Vite, Agile/Scrum  
+- **Soft Skills:** Team Collaboration, Debugging, Performance Optimization, Time Management
+
+---
+
+### 🪪 Certifications:
+- AWS Certified Developer – Associate [(Verify)](https://www.credly.com/badges/ca786fa2-4448-426c-9d11-5a5ebbc71a26/public_url)  
+- Docker Essentials: A Developer Introduction – IBM  
+- CCNA: Introduction to Networks – Cisco  
+- IT Academy: Cloud & Virtualization Concepts – Broadcom  
+- AWS Academy Cloud Web Application Builder – AWS  
+- Postman API Fundamentals Student Expert – Postman  
+- Programming Essentials in C++ – Cisco
+
+---
+
+### 🏆 Achievements:
+- **Top 10 Finalist (9th Place)** – Project Space 2025 (Expense Tracker CI/CD project)  
+  Judged by engineers from Amazon, Walmart, and Cognizant.  
+- **Commendation** from *C. Nagarani, IAS*, Former Commissioner of SBTET.  
+- **Winner**, District-Level Science Fair (2018), Andhra Pradesh.  
+- Solved 900+ coding problems across platforms (LeetCode, GFG, CodeChef).
+
+---
+
+I am built to help you explore Panasaramanna’s journey — from coding challenges to full-stack cloud-native projects, internships, and DevOps automation!
 `;
